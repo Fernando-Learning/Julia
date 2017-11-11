@@ -1,6 +1,4 @@
-<p align="center">
-	<img src="julia/images/Julia_prog_language.png" width="50%" alt="Julia"/>
-</p>
-# Sites
+<p align="center"><img src="julia/images/Julia_prog_language.png" width="50%" alt="Julia"/></p>
 
+# Sites
 * [Julia](https://julialang.org/ "Site oficial")
