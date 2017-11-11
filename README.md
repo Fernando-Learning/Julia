@@ -1,5 +1,5 @@
 # Julia
-![Julia logo](julia/images/Julia_prog_language.png)
+![Julia logo](julia/images/julia_logo.png)
 
 # Sites
 
